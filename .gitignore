@@ -1,0 +1,32 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.py[cod]
+*.class
+
+# SQLite database
+*.db
+
+# Logs
+*.log
+
+# ML model files that might be large
+*.keras
+saved_model/
+
+# IDE files
+.idea/
+.vscode/
+
+# Environment variables
+.env
+
+# Node modules
+node_modules/
+
+# Other large files
+*.dll
+
+# Only include essential files
+MultipleFiles/
+frontend/node_modules/
